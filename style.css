@@ -1,0 +1,11 @@
+body{
+    background: rgb(244, 208, 63);
+}
+
+#section-1, #section-2, #section-3, #section-4, #section-5, #section-6{
+    line-height: 25%;
+}
+
+li{
+    list-style: square;
+}
