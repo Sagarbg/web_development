@@ -9,3 +9,7 @@ body{
 li{
     list-style: square;
 }
+
+h2{
+    font-family: "DM Sans", serif;
+}
